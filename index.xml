@@ -7,48 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 John Sperger</copyright>
-    <lastBuildDate>Wed, 13 Jul 2016 17:32:11 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://jsperger.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>MTurk Talk 7 14 16</title>
-      <link>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</link>
-      <pubDate>Wed, 13 Jul 2016 17:32:11 -0400</pubDate>
-      
-      <guid>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Title&lt;/title&gt;
-    &lt;meta charset=&#34;utf-8&#34;&gt;
-    &lt;style&gt;
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-      body { font-family: &#39;Droid Serif&#39;; }
-      h1, h2, h3 {
-        font-family: &#39;Yanone Kaffeesatz&#39;;
-        font-weight: normal;
-      }
-      .image-50 img { width: 50%;}
-      .image-75 img { width: 75%;}
-      .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }
-    &lt;/style&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;script src=&#34;https://gnab.github.io/remark/downloads/remark-latest.min.js&#34;&gt;
-    &lt;/script&gt;
-    &lt;script&gt;
-      var slideshow = remark.create({
-      sourceUrl: &#39;https://raw.githubusercontent.com/jsperger/MTurkForResearchers/master/MTurk%20Training%20Presentation.md&#39;
-      });
-    &lt;/script&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-
-</description>
-    </item>
     
     <item>
       <title>Getting started with the Academic theme for Hugo</title>
@@ -651,6 +611,46 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
 &lt;h2 id=&#34;a-practical-example-in-a-diff&#34;&gt;A practical example in a diff&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://heyitsalex.net/&#34;&gt;Hey, it&amp;rsquo;s Alex&lt;/a&gt; was migrated in less than a &lt;em&gt;father-with-kids day&lt;/em&gt; from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34;&gt;diff&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Title&lt;/title&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;style&gt;
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: &#39;Droid Serif&#39;; }
+      h1, h2, h3 {
+        font-family: &#39;Yanone Kaffeesatz&#39;;
+        font-weight: normal;
+      }
+      .image-50 img { width: 50%;}
+      .image-75 img { width: 75%;}
+      .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }
+    &lt;/style&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;script src=&#34;https://gnab.github.io/remark/downloads/remark-latest.min.js&#34;&gt;
+    &lt;/script&gt;
+    &lt;script&gt;
+      var slideshow = remark.create({
+      sourceUrl: &#39;https://raw.githubusercontent.com/jsperger/MTurkForResearchers/master/MTurk%20Training%20Presentation.md&#39;
+      });
+    &lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
 </description>
     </item>
     
