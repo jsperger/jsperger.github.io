@@ -1,24 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jsperger.github.io/home/about/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jsperger.github.io/post/mturk-talk-7-14-16/</loc>
+    <lastmod>2016-07-13T17:45:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jsperger.github.io/project/mturk-talk-7-14-16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jsperger.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsperger.github.io/home/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
   <url>
     <loc>https://jsperger.github.io/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsperger.github.io/tags/mturk/</loc>
     <lastmod>2016-07-13T17:45:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jsperger.github.io/post/MTurk-Talk-7-14-16/</loc>
+    <loc>https://jsperger.github.io/post/</loc>
     <lastmod>2016-07-13T17:45:38-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jsperger.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://jsperger.github.io/project/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</loc>
+    <loc>https://jsperger.github.io/tags/</loc>
+    <lastmod>2016-07-13T17:45:38-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsperger.github.io/tags/talk/</loc>
+    <lastmod>2016-07-13T17:45:38-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

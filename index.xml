@@ -7,71 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 John Sperger</copyright>
-    <lastBuildDate>Wed, 13 Jul 2016 17:45:38 -0400</lastBuildDate>
-    <atom:link href="https://jsperger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>MTurk Talk 7 14 16</title>
-      <link>https://jsperger.github.io/post/MTurk-Talk-7-14-16/</link>
-      <pubDate>Wed, 13 Jul 2016 17:45:38 -0400</pubDate>
-      
-      <guid>https://jsperger.github.io/post/MTurk-Talk-7-14-16/</guid>
-      <description>&lt;p&gt;Tomorrow I&amp;rsquo;ll be giving an introductory talk/training session on using Amazon&amp;rsquo;s Mechanical Turk for conducting survey based research to a group of new research assistants here at the university of Pennsylvania. I&amp;rsquo;ve posted the talk &lt;a href=&#34;https://jsperger.github.io/project/MTurk-Talk-7-14-16/&#34;&gt;here&lt;/a&gt; (which is still a rough draft as of the time of this posting), and the source is available on &lt;a href=&#34;https://github.com/jsperger/MTurkForResearchers&#34;&gt;Github&lt;/a&gt;. I plan on expanding this is into more detailed How-To guides in the future because I think Amazon&amp;rsquo;s documentation is poor, and while there is good documentation targeted at psychology/social science researchers out there it tends to presume a level of familiarity with Mechanical Turk (e.g. MTurkR&amp;rsquo;s documentation).&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://jsperger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>about</title>
       <link>https://jsperger.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jsperger.github.io/home/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h1&gt;
-
-&lt;p&gt;I am the senior research coordinator for the Operations, Information and Decisions department at Wharton. I manage data collection from online studies for the department and assist with data analysis for various research projects in the department. I am currently in the process of applying to PhD programs in Statistics for Fall 2017.&lt;/p&gt;
-</description>
+      <description>Biography I am a first year doctoral student in the Biostatistics Department at UNC. My general research interests include machine learning, precision medicine, and reproducible research. Recently I have been interested in developing methods for determining dynamic treatment regimes capable of incorporating multiple competing outcomes such as efficacy, utilities (e.g. from a patient or a policy maker), cost, and side effect burden which are interpretable to domain practitioners.</description>
+    </item>
+    
+    <item>
+      <title>MTurk Talk 7 14 16</title>
+      <link>https://jsperger.github.io/post/mturk-talk-7-14-16/</link>
+      <pubDate>Wed, 13 Jul 2016 17:45:38 -0400</pubDate>
+      
+      <guid>https://jsperger.github.io/post/mturk-talk-7-14-16/</guid>
+      <description>Tomorrow I&amp;rsquo;ll be giving an introductory talk/training session on using Amazon&amp;rsquo;s Mechanical Turk for conducting survey based research to a group of new research assistants here at the university of Pennsylvania. I&amp;rsquo;ve posted the talk here (which is still a rough draft as of the time of this posting), and the source is available on Github. I plan on expanding this is into more detailed How-To guides in the future because I think Amazon&amp;rsquo;s documentation is poor, and while there is good documentation targeted at psychology/social science researchers out there it tends to presume a level of familiarity with Mechanical Turk (e.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</link>
+      <link>https://jsperger.github.io/project/mturk-talk-7-14-16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Title&lt;/title&gt;
-    &lt;meta charset=&#34;utf-8&#34;&gt;
-    &lt;style&gt;
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-      body { font-family: &#39;Droid Serif&#39;; }
-      h1, h2, h3 {
-        font-family: &#39;Yanone Kaffeesatz&#39;;
-        font-weight: normal;
-      }
-      .image-50 img { width: 50%;}
-      .image-75 img { width: 75%;}
-      .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }
-    &lt;/style&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;script src=&#34;https://gnab.github.io/remark/downloads/remark-latest.min.js&#34;&gt;
-    &lt;/script&gt;
-    &lt;script&gt;
-      var slideshow = remark.create({
-      sourceUrl: &#39;https://raw.githubusercontent.com/jsperger/MTurkForResearchers/master/MTurk%20Training%20Presentation.md&#39;
-      });
-    &lt;/script&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-
-</description>
+      <guid>https://jsperger.github.io/project/mturk-talk-7-14-16/</guid>
+      <description>  Title  @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz); @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic); @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic); body { font-family: &#39;Droid Serif&#39;; } h1, h2, h3 { font-family: &#39;Yanone Kaffeesatz&#39;; font-weight: normal; } .image-50 img { width: 50%;} .image-75 img { width: 75%;} .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }      var slideshow = remark.create({ sourceUrl: &#39;https://raw.githubusercontent.com/jsperger/MTurkForResearchers/master/MTurk%20Training%20Presentation.md&#39; });    </description>
     </item>
     
   </channel>

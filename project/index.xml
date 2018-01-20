@@ -7,46 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 John Sperger</copyright>
-    <atom:link href="https://jsperger.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jsperger.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
-      <link>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</link>
+      <link>https://jsperger.github.io/project/mturk-talk-7-14-16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jsperger.github.io/project/MTurk-Talk-7-14-16/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Title&lt;/title&gt;
-    &lt;meta charset=&#34;utf-8&#34;&gt;
-    &lt;style&gt;
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-      body { font-family: &#39;Droid Serif&#39;; }
-      h1, h2, h3 {
-        font-family: &#39;Yanone Kaffeesatz&#39;;
-        font-weight: normal;
-      }
-      .image-50 img { width: 50%;}
-      .image-75 img { width: 75%;}
-      .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }
-    &lt;/style&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;script src=&#34;https://gnab.github.io/remark/downloads/remark-latest.min.js&#34;&gt;
-    &lt;/script&gt;
-    &lt;script&gt;
-      var slideshow = remark.create({
-      sourceUrl: &#39;https://raw.githubusercontent.com/jsperger/MTurkForResearchers/master/MTurk%20Training%20Presentation.md&#39;
-      });
-    &lt;/script&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-
-</description>
+      <guid>https://jsperger.github.io/project/mturk-talk-7-14-16/</guid>
+      <description>  Title  @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz); @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic); @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic); body { font-family: &#39;Droid Serif&#39;; } h1, h2, h3 { font-family: &#39;Yanone Kaffeesatz&#39;; font-weight: normal; } .image-50 img { width: 50%;} .image-75 img { width: 75%;} .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }      var slideshow = remark.create({ sourceUrl: &#39;https://raw.githubusercontent.com/jsperger/MTurkForResearchers/master/MTurk%20Training%20Presentation.md&#39; });    </description>
     </item>
     
   </channel>
